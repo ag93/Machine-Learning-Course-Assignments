@@ -1,0 +1,1 @@
+Just run kmeans.py
